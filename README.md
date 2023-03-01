@@ -5,19 +5,23 @@ You can click the Preview link to take a look at your changes.
 👀 I’m interested in anything there is to do with game development.
 -->
 
-👋 Hi there! Thanks for checking out my profile! ☺  
+## 👋 Hi there! Thanks for checking out my profile! ☺  
+- 🎨 I love creating art especially pixel art.
+- 🎮 I also like to create games and aspire to become a developer.
 
-## Mage vs. Goblins 🔥
+## 📜 Projects
+### 🔥 Mage vs. Goblins
 <a href="https://proxima-k.itch.io/mage-vs-goblins">
-  <img alt="Mage vs. Goblins gameplay" src="../../../mage-vs-goblins/blob/main/gifs/mvg_gameplay1.gif"></img>
+  <img alt="Mage vs. Goblins gameplay" src="../../../mage-vs-goblins/blob/main/gifs/mvg_gameplay1.gif" width="450px"></img>
 </a>  
 
-Download the game [here](https://proxima-k.itch.io/mage-vs-goblins)  
-Or visit the project repo [here](https://github.com/proxima-k/mage-vs-goblins)
+- Download the game [here](https://proxima-k.itch.io/mage-vs-goblins)  
+- Or visit the project repo [here](https://github.com/proxima-k/mage-vs-goblins)
 
-## Snake needs some coins 🐍
+
+### 🐍 Snake needs some coins
 <a href="https://github.com/proxima-k/pygame-snake">
   <img alt="Snake game gameplay" src="../../../pygame-snake/blob/main/gifs/SnakeSnack.gif" height="400px">
 </a>
 
-Download the game [here](https://github.com/proxima-k/pygame-snake)
+- Download the game [here](https://github.com/proxima-k/pygame-snake)
