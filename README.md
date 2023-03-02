@@ -30,4 +30,4 @@ You can click the Preview link to take a look at your changes.
   <img alt="Snake game gameplay" src="../../../pygame-snake/blob/main/gifs/SnakeSnack.gif" height="400px">
 </a>
 
-- Download the game [here](https://github.com/proxima-k/pygame-snake)
+- Download the pygame [here](https://github.com/proxima-k/pygame-snake)
