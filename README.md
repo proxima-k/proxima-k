@@ -18,6 +18,12 @@ You can click the Preview link to take a look at your changes.
 - Download the game [here](https://proxima-k.itch.io/mage-vs-goblins)  
 - Or visit the project repo [here](https://github.com/proxima-k/mage-vs-goblins)
 
+### 🤖 Ticky In The Cave ⏪
+<a href="https://proxima-k.itch.io/ticky-in-the-cave">
+  <img alt="Ticky robot rewinding" src="gifs/ticky_rewind.gif" width="450px"></img>
+</a>  
+
+- Play the game [here](https://proxima-k.itch.io/ticky-in-the-cave). Now!
 
 ### 🐍 Snake needs some coins
 <a href="https://github.com/proxima-k/pygame-snake">
