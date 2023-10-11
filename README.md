@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 👀 I’m interested in anything there is to do with game development.
 -->
 
-## 👋 Hi there! Thanks for checking out my profile! ☺  
+## 👋 Hi there! Thanks for checking out my profile!
 - 🎨 I love creating art especially pixel art.
 - 🎮 I also like to create games and aspire to become a developer.
 
