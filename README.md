@@ -5,9 +5,6 @@ You can click the Preview link to take a look at your changes.
 👀 I’m interested in anything there is to do with game development.
 -->
 
-## 👋 Hi there! Thanks for checking out my profile!
-- 🎨 I love creating art especially pixel art.
-- 🎮 I also like to create games and aspire to become a developer.
 
 ## 📜 Projects
 ### 🔥 Mage vs. Goblins
@@ -25,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 - Play the game [here](https://proxima-k.itch.io/ticky-in-the-cave). Now!
 
-### 🐍 Snake needs some coins
+### 🐍 Snake 2020
 <a href="https://github.com/proxima-k/pygame-snake">
   <img alt="Snake game gameplay" src="../../../pygame-snake/blob/main/gifs/SnakeSnack.gif" height="400px">
 </a>
